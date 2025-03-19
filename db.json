@@ -1,0 +1,22 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "firstName": "Иван",
+      "lastName": "Иванов",
+      "specialization": "Кардиолог"
+    },
+    {
+      "id": 2,
+      "firstName": "Мария",
+      "lastName": "Петрова",
+      "specialization": "Терапевт"
+    },
+    {
+      "id": 3,
+      "firstName": "Алексей",
+      "lastName": "Сидоров",
+      "specialization": "Хирург"
+    }
+  ]
+}
