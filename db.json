@@ -1,22 +1,19 @@
 {
-  "doctors": [
+  "users": [
     {
       "id": 1,
-      "firstName": "Иван",
-      "lastName": "Иванов",
-      "specialization": "Кардиолог"
+      "name": "Анна",
+      "workouts": 4
     },
     {
       "id": 2,
-      "firstName": "Мария",
-      "lastName": "Петрова",
-      "specialization": "Терапевт"
+      "name": "Мария",
+      "workouts": 15
     },
     {
       "id": 3,
-      "firstName": "Алексей",
-      "lastName": "Сидоров",
-      "specialization": "Хирург"
-    }
+      "name": "Анна",
+      "workouts": 8
+    },
   ]
 }
